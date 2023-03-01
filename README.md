@@ -1,5 +1,7 @@
 # Zmazones
+
 ## By team insomnia
+
 Team members:
 
 Haoming Hu: 1006763986
@@ -12,7 +14,7 @@ Xu Zheng: 1006330132
 
 An online shopping application is a software program designed to enable users to browse and purchase products and services from the comfort of their own devices. The application typically features an intuitive user interface, allowing users to easily search for products by category, brand, price, color, or any other relevant criteria.
 
-In addition to the user version, the online shopping application also includes a seller version, which allows businesses to create and manage their online stores within the application. Sellers can upload product images, descriptions, and prices, as well as track inventory and process orders from customers. 
+In addition to the user version, the online shopping application also includes a seller version, which allows businesses to create and manage their online stores within the application. Sellers can upload product images, descriptions, and prices, as well as track inventory and process orders from customers.
 
 The application may include a variety of features to enhance the shopping experience for both users and sellers, such as product reviews and ratings. Users can also view images, descriptions, and specifications for each item.
 
@@ -29,24 +31,26 @@ Overall, the online shopping application is a convenient and efficient way for u
 5. Twilio: 2 points (SMS)
 
 ### Alpha version
- - UI design (HTML/CSS)
- - finish two different versions of user pages
-   - buyer version
-   - seller version
- - sign-up feature in backend
- - sign-in feature in backend with authorization
+
+- UI design (HTML/CSS)
+- finish two different versions of user pages
+  - buyer version
+  - seller version
+- sign-up feature in backend
+- sign-in feature in backend with authorization
 
 ### Beta version
- - Sellers can upload product images, descriptions, and prices of the products on our website.  
- - Users can also view images, descriptions, and specifications for each item by searching on the web. 
- - Customers can add products to the shopping cart.
- - Customers can check out the shopping cart (no payment yet)
- - Users will get a PUSH notification once the buying process proceeds. 
+
+- Sellers can upload product images, descriptions, and prices of the products on our website.
+- Users can also view images, descriptions, and specifications for each item by searching on the web.
+- Customers can add products to the shopping cart.
+- Customers can check out the shopping cart (no payment yet)
+- Users will get a PUSH notification once the buying process proceeds.
 
 ### Final version
- - Customers can make payments on orders (Stripe is involved).
- - process tracking after the buying process.
- - Leave comments under products (only for customers who bought the product).
- - Leave ratings under products (only for customers who bought the product)
- - PUSH notifications by email or SMS to users once the state of goods changes
 
+- Customers can make payments on orders (Stripe is involved).
+- process tracking after the buying process.
+- Leave comments under products (only for customers who bought the product).
+- Leave ratings under products (only for customers who bought the product)
+- PUSH notifications by email or SMS to users once the state of goods changes
